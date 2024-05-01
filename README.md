@@ -18,4 +18,5 @@ As this project has been developed for Jupyter Notebook, you can easily set it u
 4. **Run All Cells:** Execute the notebook cells sequentially by selecting "Runtime" -> "Run all" from the menu. This will install and configure the necessary dependencies.
 ## Video Explanation
 Watch a brief video highlighting the main results, methodology, and goals of the project: [Video Explanation](https://youtu.be/oUCMyyfIJtE)
+
 Feel free to explore the Jupyter Notebook in your Anaconda environment and utilize the system for your Textual Anomaly Detection in Financial Reports-document text summarization needs!

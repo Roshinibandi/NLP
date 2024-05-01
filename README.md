@@ -20,3 +20,7 @@ As this project has been developed for Jupyter Notebook, you can easily set it u
 Watch a brief video highlighting the main results, methodology, and goals of the project: [Video Explanation](https://youtu.be/oUCMyyfIJtE)
 
 Feel free to explore the Jupyter Notebook in your Anaconda environment and utilize the system for your Textual Anomaly Detection in Financial Reports-document text summarization needs!
+
+## Dataset
+The Credit card dataset is more than 25MB which we cannot upload to the github repository. So please use the following link to download the data
+[credit card data] (https://drive.google.com/file/d/1sJCzS0BMllDKxNTt8fayTRYsJ5J_9oLV/view?usp=drive_link)

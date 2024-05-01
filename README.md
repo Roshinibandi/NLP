@@ -23,4 +23,4 @@ Feel free to explore the Jupyter Notebook in your Anaconda environment and utili
 
 ## Dataset
 The Credit card dataset is more than 25MB which we cannot upload to the github repository. So please use the following link to download the data
-[credit card data] (https://drive.google.com/file/d/1sJCzS0BMllDKxNTt8fayTRYsJ5J_9oLV/view?usp=drive_link)
+[credit card data](https://drive.google.com/file/d/1sJCzS0BMllDKxNTt8fayTRYsJ5J_9oLV/view?usp=drive_link)
